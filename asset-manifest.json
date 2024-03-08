@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/sg_Portfolio.github.io/static/css/main.e4921e65.css",
+    "main.js": "/sg_Portfolio.github.io/static/js/main.fe896ac4.js",
+    "static/js/787.1937f22b.chunk.js": "/sg_Portfolio.github.io/static/js/787.1937f22b.chunk.js",
+    "static/media/9.png": "/sg_Portfolio.github.io/static/media/9.8a98c7644601b01ac0b6.png",
+    "static/media/10.png": "/sg_Portfolio.github.io/static/media/10.be25de52c479675d8a5f.png",
+    "static/media/4.png": "/sg_Portfolio.github.io/static/media/4.788a3f721bda814bdf9b.png",
+    "static/media/3.png": "/sg_Portfolio.github.io/static/media/3.61eb5f448095aef19ff7.png",
+    "static/media/7.png": "/sg_Portfolio.github.io/static/media/7.d570580b64dcbb8466c5.png",
+    "static/media/11.png": "/sg_Portfolio.github.io/static/media/11.0e3fd3f6f6f946756a15.png",
+    "static/media/insta-removebg-preview.png": "/sg_Portfolio.github.io/static/media/insta-removebg-preview.61873204a9f3eadb27f3.png",
+    "static/media/git-removebg-preview.png": "/sg_Portfolio.github.io/static/media/git-removebg-preview.8953be934d8e6bc1b062.png",
+    "static/media/image.png": "/sg_Portfolio.github.io/static/media/image.44d7fd8e12962f43ce3d.png",
+    "static/media/6.png": "/sg_Portfolio.github.io/static/media/6.c58c8e603b793389cb2d.png",
+    "static/media/2.png": "/sg_Portfolio.github.io/static/media/2.c1a35a82fc8ecfd812d8.png",
+    "static/media/8.png": "/sg_Portfolio.github.io/static/media/8.86018750a4e989517950.png",
+    "static/media/lnkdn-removebg-preview.png": "/sg_Portfolio.github.io/static/media/lnkdn-removebg-preview.bfb267aefb3f4ed5bccc.png",
+    "static/media/5.png": "/sg_Portfolio.github.io/static/media/5.c74e1a44deec51acadad.png",
+    "static/media/artcode.avif": "/sg_Portfolio.github.io/static/media/artcode.ed613877774c56798155.avif",
+    "static/media/logo2.png": "/sg_Portfolio.github.io/static/media/logo2.f52005e0b45269e223d9.png",
+    "static/media/yt-removebg-preview.png": "/sg_Portfolio.github.io/static/media/yt-removebg-preview.69fa132ed0ed20cc17cf.png",
+    "index.html": "/sg_Portfolio.github.io/index.html",
+    "main.e4921e65.css.map": "/sg_Portfolio.github.io/static/css/main.e4921e65.css.map",
+    "main.fe896ac4.js.map": "/sg_Portfolio.github.io/static/js/main.fe896ac4.js.map",
+    "787.1937f22b.chunk.js.map": "/sg_Portfolio.github.io/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4921e65.css",
+    "static/js/main.fe896ac4.js"
+  ]
+}
