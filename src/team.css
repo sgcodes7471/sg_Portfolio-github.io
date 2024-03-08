@@ -1,0 +1,36 @@
+
+#team-wrapper{
+    margin-top: 30vh;
+}
+#team-profile{
+    display: flex;
+    margin-top: 10vh;
+    justify-content: center;
+    align-items: center;
+}
+#team-profile-more{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#team-profile-more div{
+    width: 80%;
+}
+.team-profile-line hr{
+    height: 500px;
+    width: 4px;
+    border: none;
+    background-color: #16b364;
+}
+.highlight-team-profile{
+    color: #16b364;
+}
+#team-profile-pic img{
+    height: 350px;
+    border-radius: 500px;
+    transition: 1s;
+}
+#team-profile-pic img:hover{
+    transform: rotateY(35deg);
+}

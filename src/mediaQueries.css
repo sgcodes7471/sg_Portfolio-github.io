@@ -1,0 +1,129 @@
+
+@media screen and (max-width:1100px) {
+    html{
+        overflow-x: hidden;
+    }
+    body{
+        justify-content: center;
+    }.head-wrapper{
+        align-items: center;
+    }#working-cards-wrapper{
+        flex-direction: column;
+    }
+    .working-cards{
+        width: 90vw;
+        height: 30vh;
+        justify-content: center;
+        align-items: center;
+        padding-top: 50px;
+    }
+    .working-cards-serial{
+        font-size: 15rem;
+    }
+    .working-cards-content{
+        font-size: 1.2rem;
+    }.main{
+        font-size: 4.2rem;
+    }
+    .extras{
+        width: 100vw;
+    }#customer-wrapper{
+        font-size: 1rem;
+    }.services-list-heading{
+        color: #16b364;
+    }#about-wrapper{
+        margin-top: 0px;
+    }#team-profile{
+        flex-direction: column;
+    }
+.team-profile-line{
+    display: none;
+}
+}
+@media  screen and (max-width:800px) {
+    #about-heading-dynamicText{
+        margin-bottom: 20vh;
+        font-size: 2.4rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #about-wrapper{
+        margin-right: 10px;
+    }
+}
+@media screen and (max-width:500px) {
+   .main{
+        font-size: 4rem;
+        width: 100vw;
+        position: relative;
+    }
+    .faqs-question{
+        font-size: 1.2rem;
+    }
+    .faqs-sign{
+        font-size: 1.2rem;
+    }
+    .faqs-wrapper-2{
+        font-size: 1rem;
+    }.main{
+        font-size: 2.5rem;
+    }
+    body{
+        min-width: 100vw;
+    }
+}
+@media screen and (max-width:1000px) {
+    #faqs-wrapper{
+        flex-direction: column;
+    }
+    .faqs-wrapper-left{
+        width: 100vw;
+    }
+    #faqs-heading-main{
+        text-align: center;
+    }
+    .faqs-wrapper-left-inner{
+        position: relative;
+    }.faqs-wrapper-right{
+        width:100vw;
+    }.faqs-individual-wrapper{
+        margin: 20px 10px 20px 10px;
+    }.faqs-sign{
+        width: 10%;
+    }.faqs-question{
+        width: 90%;
+      }
+}
+@media screen and (max-width:950px) {
+    .section-common{
+        margin:  10vh 0vw 10vh 0vw;
+    }
+}
+@media screen and (max-width:1300px) {
+    #head_id{
+        flex-direction: column;
+        position: relative;
+        justify-content: center;
+    }
+    #about-wrapper{
+        margin-top: 20vh;
+    }
+    .head-navbar{
+        display: none;
+    }
+    .head-wrapper{
+        align-items: center;
+    }
+}
+@media screen and (max-width:700px) {
+    .head-logo p{
+        font-size: 3rem;
+    }
+}
+@media screen and (max-width:365px) {
+ .head-logo p{
+    font-size: 2.8rem;
+ }   
+}

@@ -1,0 +1,40 @@
+.hamburger{
+    display: none;
+    position: fixed;
+    top: 10px;
+    left: 20px;
+    z-index:11;
+}
+.hamburger-line{
+    background-color:#16b364;
+    border:none;
+}
+#hamburger-line-1:hover{
+    transform: rotateX(60deg);
+}
+#hamburger-line-2:hover{
+    transform: rotateX(-60deg);
+}
+#hamburger-navbar-ul{
+    flex-direction: column;
+    display: none;
+    height: 45vh;
+        width: 50vw;
+        position:fixed;
+        top: 10px;
+        left: 10px;
+        padding-top: 50px;
+        padding-left: 20px;
+        font-size: 2rem;
+        z-index: 10;
+        align-items: first baseline;
+        background-color: rgba(19, 24, 22, 0.9);
+        border-radius: 20px;
+}
+@media screen and (max-width:1300px) {
+    .hamburger{
+        display: block;
+    }
+}
+
+/* 1300px display none of navbar */

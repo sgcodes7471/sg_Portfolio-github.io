@@ -1,0 +1,33 @@
+
+.tools-logo{
+    margin: 10px 20px 10px 20px;
+    width: 70px;
+    border: 1px solid rgb(255, 255, 255, 0.722);
+    background-color: rgba(255, 255, 255, 0.722);
+    border-radius: 100px;
+    height: 70px;
+}
+#tools-wrapper{
+    width: 100vw;
+    margin: 10vh 0px 20px 0px;
+    position: relative;
+}
+.tools-illustrations{
+    width:60%;
+    overflow: hidden;
+    white-space: nowrap;
+    box-shadow: inset 0px 0px 10px rgb(20, 26, 23);
+}
+.tools-illustrations-slider{
+    display: inline-block;
+    animation: 30s slider infinite linear;
+}
+
+@keyframes slider {
+    from{
+        transform: translateX(0%);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+}

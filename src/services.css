@@ -1,0 +1,24 @@
+
+#services-list-wrapper{
+    width: 80vw;
+}
+.services-list-cantainer{
+    color: white;
+    display: flex;
+    margin:2.5vh 0vh 2.5vh 0vh;
+    width: 100%;
+}
+.services-list-serial{
+    font-size: 3.1rem;
+}
+.services-list-heading{
+    font-size: 1.6rem;
+    width: 97%;
+    text-align: right;
+    color: rgb(255, 255, 255);
+}
+.services-list-btn{
+    border: none;
+    width: max-content;
+    font-size: 2rem;
+}

@@ -1,0 +1,43 @@
+
+#faqs-wrapper{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.faqs-individual-wrapper{
+    margin: 20px 20px 80px 20px;
+    cursor:pointer;
+    background-color: rgb(20, 26, 23);
+    width: 90%;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 10px #159454;
+}
+.faqs-individual-wrapper:hover{
+    box-shadow: 0px 0px 20px #16b364;
+}
+.faqs-wrapper-1{
+    display: flex;
+}
+.faqs-question{
+    font-size: 1.6rem;
+    text-align: left;
+    width: 70%;
+}
+.faqs-course{
+    font-size: 1.3rem;
+}
+.faqs-sign{
+    font-size: 1.5rem;
+    width: 30%;
+    text-align: right;
+}
+.faqs-wrapper-2{
+    font-size: 1.2rem;
+    margin-top: 20px;
+    
+}
+.faqs-grade
+.faqs-year{
+    color:rgb(108, 108, 108) ;
+}
